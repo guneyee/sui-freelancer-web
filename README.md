@@ -1,11 +1,11 @@
 # Sui Freelancer Web Platform
 
-A decentralized freelancer marketplace built on Sui blockchain using Move language, featuring GitHub IPA-based freelancer tier system (Diamond, Gold, Silver).
+A decentralized freelancer marketplace built on Sui blockchain using Move language, featuring GitHub IPA-based freelancer tier system (Diamond, Gold, Silver, Bronze).
 
 ## Project Overview
 
 This project implements a freelancer marketplace on the Sui blockchain where:
-- Freelancers are categorized into three tiers: **Diamond**, **Gold**, and **Silver**
+- Freelancers are categorized into four tiers: **Diamond**, **Gold**, **Silver**, and **Bronze**
 - Tier classification is based on GitHub IPA (GitHub Integrated Performance Analytics)
 - Smart contracts manage freelancer profiles, ratings, and transactions
 - Web interface for browsing and hiring freelancers
@@ -26,6 +26,11 @@ This project implements a freelancer marketplace on the Sui blockchain where:
 - Emerging freelancers
 - GitHub profile verification required
 - Accessible entry-level pricing
+
+### Bronze Tier
+- New or onboarding freelancers
+- Basic GitHub verification and identity checks
+- Introductory pricing with limited initial visibility
 
 ## Project Structure
 
