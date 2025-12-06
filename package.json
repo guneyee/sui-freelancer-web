@@ -1,0 +1,6 @@
+{
+  "name": "sui-freelancer-web-root",
+  "version": "0.1.0",
+  "description": "Sui Freelancer Platform - Root workspace",
+  "private": true
+}

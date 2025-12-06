@@ -1,0 +1,10 @@
+[package]
+name = "FreelancerPlatform"
+version = "0.1.0"
+published-at = "0x0"
+
+[dependencies]
+Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "framework/testnet" }
+
+[addresses]
+freelancer_platform = "0x0"
